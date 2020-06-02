@@ -6,8 +6,6 @@ matrix:
       arch: amd64
     - os: linux
       arch: arm64
-    - os: osx
-      arch: amd64
 
 addons:
   apt:
